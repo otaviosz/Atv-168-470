@@ -12,4 +12,4 @@ def unifran():
   return '<h2>Universidade de Franca</h2>'
 
 if __name__=='__main__':
-    app.run(host='0.0.0.0)
+    app.run(host='0.0.0.0')
